@@ -1,4 +1,12 @@
-# Term Project: 
+# Replication of Sascha O. Becker, Peter H. Egger, and Maximilian von Ehrlich.(2013)
+
+This constains my repliaction of following article :
+Sascha O. Becker, Peter H. Egger, and Maximilian von Ehrlich. (2013). Absortive Capacity and the Growth and Investment
+Effects of Regional Transfers: A Regression Discontinuity Design with Heterogeneous Treatment Effects. American Economic Journal:Economic Policy 2013, 5(4): 29–77.
+
+## Continuous integration with Travis CI
+
+
 
 This is a template for course projects. We use [GitHub Classroom](https://classroom.github.com) to administrate our student projects and so you need to sign up for a [GitHub Account](http://github.com).
 
